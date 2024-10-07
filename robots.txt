@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lowneths.github.io/sitemap.html.gz
+Sitemap: https://lowneths.github.io/app/sitemap.html.gz
+Sitemap: https://lowneths.github.io/assets/sitemap.html.gz
+Sitemap: https://lowneths.github.io/css/sitemap.html.gz
+Sitemap: https://lowneths.github.io/data/sitemap.html.gz
+Sitemap: https://lowneths.github.io/includes/sitemap.html.gz
+Sitemap: https://lowneths.github.io/item/sitemap.html.gz
+Sitemap: https://lowneths.github.io/src/sitemap.html.gz
